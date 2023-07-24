@@ -128,3 +128,29 @@ color: blue;
 .xbox a{
     padding-top: 20px;
 }
+
+/* carbon */
+.carbon{
+    background: url('image/carbon.jpg') no-repeat center center/cover;
+    width: 90%;
+    height: 350px;
+    margin: 0px 60px 10px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+    padding-top: 100px;
+}
+.carbon p{
+    padding: 10px 0px ;
+    width: 560px;
+}
+.white{
+    background-color: #fff;
+    color: #000;
+    margin-top:10px;
+}
+.white :hover{
+  background-color: #262626;
+}
