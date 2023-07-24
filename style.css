@@ -52,7 +52,7 @@ body{
     text-align: center;
     margin: 0px 60px;
     padding-bottom: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 7.5px;
 }
 .btn{
     width: 100px;
@@ -84,6 +84,28 @@ body{
 }
 
 /* home-card1 */
+.home-cards div{
+    width: 300px;
+    height: 340px;
+    margin: 0px 7.5px 0px 0px;
+}
 .home-cards{
-    
+    display: flex;
+    width: 90%;
+    height: 400px;
+    margin: 0px 60px;
+}
+.home-cards div h3{
+    margin: 10px 0px 5px 0px;
+}
+.home-cards div p a{
+text-decoration: none;
+color: dodgerblue;
+font-weight: bold;
+}
+.home-cards div a:hover{
+color: blue;
+}
+.home-cards div p{
+    margin: 0px 0px 15px 0px;
 }
