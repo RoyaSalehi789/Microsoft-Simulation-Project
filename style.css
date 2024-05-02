@@ -93,7 +93,7 @@ body{
     display: flex;
     width: 90%;
     height: auto;
-    margin: 0px 60px;
+    margin-left: 10%;
 }
 .home-cards div:hover{
     transform: perspective(300px) translate3d(0px,0px,5px);
